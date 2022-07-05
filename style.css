@@ -35,3 +35,41 @@ body{
     padding: 10px;
     border-radius: 15px;
 }
+
+.middle-container{
+    width: 80%;
+    height: 80vh;
+    margin: 100px;
+    text-align: center;
+}
+.Donors-title{
+    font-size: 2em;
+}
+.choose-plan{
+    font-size: 1em;
+margin-left: 0;
+display: inline-flex;
+text-align: justify;
+}
+#orng{
+    background-color: rgb(255, 208, 175);
+    border: 2px solid salmon;
+}
+.dollar{
+    background-color: rgb(228, 224, 220);
+    font-size: 50px;
+    margin: 10px 8px;
+    padding-top: 35px ;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+.enter-dlr{
+    width: 400px;
+    height: 30px;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    padding: 5px;
+}
