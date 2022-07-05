@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.title-container{
+    background-image: url(images/canva1.png);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+.content{
+    color: white;
+    text-align: center;
+    padding: 200px 0;
+}
+.title{
+    font-size: 2em;
+}
+.text{
+    height: 150px;
+    color: black;
+    background-color: white;
+    font-size: 18px;
+    margin: 0 340px 20px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.donate-btn{
+    color: black;
+    text-decoration: none;
+    background-color:aqua;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 15px;
+}
