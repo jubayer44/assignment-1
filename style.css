@@ -38,12 +38,13 @@ body{
 
 .middle-container{
     width: 80%;
-    height: 80vh;
+    height: 70vh;
     margin: 100px;
     text-align: center;
 }
 .Donors-title{
-    font-size: 2em;
+    font-size: 40px;
+    margin-bottom: 40px;
 }
 .choose-plan{
     font-size: 1em;
@@ -73,3 +74,4 @@ text-align: justify;
     font-size: 18px;
     padding: 5px;
 }
+
